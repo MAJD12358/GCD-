@@ -1,6 +1,10 @@
 بالطبع، إليك مثال على ملف تعريف لغة GCD بشكل مبسّط. يمكنك توسيعه وتخصيصه حسب احتياجات مشروعك:
 
 ```markdown
+## Documentation
+
+- [GCD Language Definition](link/to/LANGUAGE_DEFINITION.md)
+
 # GCD Programming Language Definition
 
 ## Overview
