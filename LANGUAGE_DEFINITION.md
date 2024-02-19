@@ -71,5 +71,8 @@ GCD is a language that empowers developers with advanced features while maintain
 
 For more detailed information, refer to the complete [GCD Programming Guide](link/to/programming/guide.md).
 ```
+## Documentation
+
+- [GCD Language Definition](link/to/LANGUAGE_DEFINITION.md)
 
 يُفضل توفير روابط للمستندات والدلائل الخاصة باللغة لتوفير إرشادات أفضل للمطورين.
