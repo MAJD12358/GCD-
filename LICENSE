@@ -1,202 +1,23 @@
-Name: GCD
-Top: ===
-App:
-  name: GCDApp   # تحديث: اسم التطبيق
-  text: ~
-  photo: ~
-  video: ~
-  export: ~
-  icon: #
-  firebase: ~
-  admob: ~
-  login: ~
-  signup: ~
-  realtime: ~
-  editor: ~
-    - code_editor   # تحديث: محرر الشفرة
-  advanced_features: ~   # تحديث: ميزات متقدمة
-    - machine_learning   # تحديث: برمجة الآلات
-    - augmented_reality   # تحديث: دعم الواقع المعزز
-    - voice_recognition   # تحديث: قدرات التعرف على الصوت
-    - blockchain_integration   # تحديث: دمج تقنية البلوكشين
-    - enhanced_security   # تحديث: ميزات أمان محسنة
-  php_similarity: ~      # تحديث: تشابه مع PHP
-  html_css_js_python_java: ~  # تحديث: دعم لغات متعددة
-  ai_tools: ~            # تحديث: أدوات الذكاء الاصطناعي
-    - natural_language_processing   # تحديث: معالجة اللغة الطبيعية
-    - computer_vision   # تحديث: رؤية الحاسوب
-    - predictive_analytics   # تحديث: تحليلات التنبؤية
-    - machine_learning_models   # تحديث: نماذج البرمجة الآلية
-  topic_tools: ~         # تحديث: أدوات الموضوع
-    - topic_modeling   # تحديث: نمذجة المواضيع
-    - content_clustering   # تحديث: تجميع المحتوى
-    - sentiment_analysis   # تحديث: تحليل المشاعر
-  brackets_support: ~    # تحديث: دعم الأقواس
-  machine_learning: ~    # تحديث: برمجة الآلات
-  server:
-    - name: server.gcd   # تحديث: اسم الصفحة لتفعيل السيرفر
-      activate: ~
-      size: ~
-      page_length: ~
-      advanced_features: ~   # تحديث: ميزات متقدمة للسيرفر
-        - topic_modeling   # تحديث: نمذجة المواضيع
-        - content_clustering   # تحديث: تجميع المحتوى
-        - sentiment_analysis   # تحديث: تحليل المشاعر
-      brackets_support: ~    # تحديث: دعم الأقواس للسيرفر
-  user_copy: ~           # تحديث: نسخة المستخدم
-  admob_copy: ~          # تحديث: نسخة AdMob
-Colors:
-  - variable: #3366cc
-  - keyword: #cc0000
-  - comment: #999999
-  - code_purple: #800080   # لون النص البرمجي البنفسجي
-  - code_green: #008000    # لون النص البرمجي الأخضر
+# GCD Programming Language License
 
-Organizing Code:
-~ Group your code logically for better organization.
+MIT License
 
-Programming Guide:
-~ GCD provides an advanced programming paradigm, continually evolving and meeting the demands of experienced developers.
-~ Define the application name using `name~~`.
-~ Use `text~#` for clear and visually highlighted code during text operations. # اللون البنفسجي
-~ Enhance documentation with images using `photo~#`.
-~ For detailed explanations, include video clips with `video#~`.
+Copyright (c) [Year] [GCD]
 
-Colors:
-~ Highlight variables with: #3366cc
-~ Emphasize keywords with: #cc0000
-~ Visualize comments with: #999999
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-Database:
-~ Utilize `Database` for efficient database interactions.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-Link:
-~ Establish connections between programming languages using `Link=`.
-
-Export:
-~ Use `Export` to enable the functionality of exporting the application.
-
-Firebase:
-~ Integrate Firebase services into your application using `firebase~#`.
-
-AdMob:
-~ Monetize your app by integrating AdMob with `admob~#`.
-
-Login:
-~ Implement user login functionality with `login~#`.
-
-Signup:
-~ Enable user registration with `signup~#`.
-
-Real-time Interaction:
-~ Enhance user experience with real-time interaction using `realtime~#`.
-
-Editor:
-~ Allow users to create a code editor with `editor~#` supporting only GCD code.
-
-Advanced Features:
-~ Unlock new advanced features with `advanced_features~#`.
-  ~ Machine Learning Integration
-  ~ Augmented Reality Support
-  ~ Voice Recognition Capabilities
-  ~ Blockchain Integration
-  ~ Enhanced Security Features
-
-PHP Similarity:
-~ Experience PHP-like features with GCD, including:
-  ~ Server-Side Scripting
-  ~ Dynamic Typing
-  ~ Easy Integration with HTML
-  ~ Extensive Standard Library
-  ~ Procedural and Object-Oriented Programming Paradigms
-
-HTML, CSS, JS, Python, Java Support:
-~ Develop your application with support for multiple programming languages, including:
-  ~ HTML
-  ~ CSS
-  ~ JavaScript
-  ~ Python
-  ~ Java
-
-AI Tools:
-~ Enhance your application with AI capabilities:
-  ~ Natural Language Processing
-  ~ Computer Vision
-  ~ Predictive Analytics
-  ~ Machine Learning Models
-
-Topic Tools:
-~ Integrate tools for organizing and categorizing content:
-  ~ Topic Modeling
-  ~ Content Clustering
-  ~ Sentiment Analysis
-
-Brackets Support:
-~ Utilize brackets for code organization and readability:
-  ~ `<>` for opening brackets
-  ~ `</>` for closing brackets
-
-Machine Learning:
-~ Enable programmers to develop machine learning models using GCD.
-
-Server:
-~ Utilize the GCD server for hosting and managing your application.
-  ~ Name the server page as `server.gcd`.
-  ~ Activate the server with `activate~`.
-
-Server Features:
-~ Configure server settings with `~server#`.
-  ~ Set the server size with `size~#`.
-  ~ Specify the page length with `page_length~#`.
-  ~ Enable advanced server features with `advanced_features~#`.
-    - Topic Modeling
-    - Content Clustering
-    - Sentiment Analysis
-  ~ Add brackets support to the server with `brackets_support~#`.
-
-User Copy:
-~ Allow programmers to create a copy of user data with `user_copy~#`.
-
-AdMob Copy:
-~ Enable programmers to create a copy of AdMob data with `admob_copy~#`.
-
-Animation:
-~ Leverage GCD's capability to create advanced user interfaces with animated elements. Specify animation details with `Animation~`.
-
-Ui:
-~ Design the user interface using `Ui+`, incorporating elements and visual aesthetics suited to the application's requirements.
-
-Buttons:
-~ Implement buttons with `//+` or `+++` syntax.
-
-Links:
-~ Create links and export the application using standard HTML elements:
-  ~ Utilize `<style>` for styling.
-  ~ Incorporate `<script>` for scripting.
-
-Icons:
-~ Enhance the user interface with icons using `icon#` syntax.
-
-Tools and Styles:
-#style~
-- Integrate tools for enhanced styling and design.
-
-Punctuation:
-- Enhance your code readability by incorporating common punctuation marks:
-  ~ `!` for emphasis
-  ~ `;` for terminating statements
-  ~ `؛` for alternative statement termination
-  ~ `؟` for Arabic question mark.
-
-Languages Support:
-~ GCD supports various programming languages, including:
-  ~ Arabic
-  ~ English
-  ~ French
-  ~ German
-  ~ American English
-  ~ HTML
-  ~ CSS
-  ~ JavaScript
-  ~ Python
-  ~ Java
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
