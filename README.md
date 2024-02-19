@@ -135,4 +135,41 @@ This completes the documentation for the GCD programming language. We hope you h
 Happy coding! :rocket:
 
 For more detailed information, refer to the complete [GCD Programming Guide](link/to/programming/guide.md).
-``` 
+``` # My Awesome GCD Project
+
+## Code Preview
+
+```gcd
+# Your GCD code goes here...
+activate_language: gcd
+name~~MyGCDApp
+text#
+photo~#
+video#~
+# GCD Code Previewer
+
+# Import necessary libraries
+import Ui+
+import CodeMirror+
+
+# Define the main application
+App#name~~GCD_Previewer
+text#
+
+# Create UI elements
+Ui+
+  Text#text~~GCD Code Previewer
+  CodeMirror#id~~codeMirror height~~400px placeholder~~Enter your GCD code here...
+
+# Event handling for code changes
+Event#id~~codeMirror
+  on_change: update_preview
+
+# Function to update code preview
+Function#name~~update_preview
+  code = CodeMirror#id~~codeMirror.get_code()
+  display_preview(code)
+
+# Function to display code preview
+Function#name~~display_preview
+  code -> Ui+ show_notification("GCD Code Preview:", "info", code)
