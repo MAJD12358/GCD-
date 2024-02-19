@@ -1,6 +1,7 @@
 ```markdown
 # GCD Programming Language Documentation
-
+<font color="#008000">GCD Programming Language</font>
+:computer: GCD Programming Language :rocket:
 ## Introduction
 GCD (GCD Code Language) is an advanced and professional programming language designed for efficiency and versatility. It provides cutting-edge features and a robust framework for developing a wide range of applications, from simple scripts to complex machine learning models.
 
