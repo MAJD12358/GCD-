@@ -1,82 +1,43 @@
-```markdown
-<p align="center">
-  <img src="logo.png" alt="GCD+ Logo" width="200">
-</p>
 # GCD+ Programming Language
+
+<p align="center">
+  <img src="url_to_your_logo" alt="GCD+ Logo" width="200">
+</p>
 
 Welcome to GCD+, a powerful and advanced programming language for building feature-rich applications.
 
 ## Versions
 
-- v1.0.0: Initial release
-- v1.1.0: Added advanced AI capabilities
-- v1.2.0: Introduced custom animations
-- v1.3.0: Enhanced user interface options
-- ...
+- **v1.0.0:** Initial release
+- **v1.1.0:** Added advanced features
+- **v1.2.0:** Enhanced performance and stability
+- **v2.0.0:** Major update with new functionalities
 
-## Overview
+## Examples
 
-GCD+ is an innovative programming language designed for developers seeking advanced and futuristic solutions. It combines cutting-edge features, powerful AI integration, and a developer-friendly environment.
+Here are some advanced examples of GCD+ code:
 
-## Advanced Features
+1. Example 1: [Link to Example 1](example1.gcd)
+2. Example 2: [Link to Example 2](example2.gcd)
+3. Example 3: [Link to Example 3](example3.gcd)
+4. Example 4: [Link to Example 4](example4.gcd)
+5. Example 5: [Link to Example 5](example5.gcd)
+6. Example 6: [Link to Example 6](example6.gcd)
+7. Example 7: [Link to Example 7](example7.gcd)
+8. Example 8: [Link to Example 8](example8.gcd)
+9. Example 9: [Link to Example 9](example9.gcd)
+10. Example 10: [Link to Example 10](example10.gcd)
 
-1. **Custom Animations:**
-   ```gcd
-   #Animations+
-   ~animation#fadeIn
-      duration=1s
-      delay=0.5s
-      easing=ease-in-out
-   ```
+## Advanced and Futuristic
 
-2. **AI Integration:**
-   ```gcd
-   #Ai[
-      machine_learning=true
-      natural_language_processing=true
-      neural_networks=true
-   ]
-   ```
+GCD+ is designed to be advanced, developer-friendly, and future-proof. With its intuitive syntax and powerful features, it opens up endless possibilities for building innovative applications.
 
-3. **User Authentication:**
-   ```gcd
-   #App.GCD+
-   ~custom~app~code[
-      user_authentication=true
-   ]
-   ```
+## Green, Purple, and Yellow Styling
 
-   ...
-
-10. **Augmented Reality:**
-    ```gcd
-    +interaction#[
-       augmented_reality=true
-    ]
-    ```
-
-## Code Styling
-
-Customize the appearance of your GCD+ code with the following styling:
-
-```gcd
-#Code+colors[
-   codeColorGreen='#00FF00'
-   codeColorPurple='#800080'
-   codeColorYellow='#FFFF00'
-]
-```
+All GCD+ code snippets are styled with shades of green, purple, and yellow, making them visually appealing and easy to read.
 
 ## Tutorial
 
-To get started with GCD+, follow these steps:
-
-1. Clone the repository.
-2. Install the GCD+ compiler.
-3. Write your GCD+ code using the provided examples.
-4. Customize the appearance with the specified styling.
-5. Preview and install your application.
+To learn how to get started with GCD+ and explore its advanced features, check out our [tutorial](tutorial.md).
 
 Happy coding with GCD+!
-```
- 
