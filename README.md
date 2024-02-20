@@ -1,9 +1,8 @@
 ```markdown
-# GCD+ Programming Language
-
 <p align="center">
   <img src="logo.png" alt="GCD+ Logo" width="200">
 </p>
+# GCD+ Programming Language
 
 Welcome to GCD+, a powerful and advanced programming language for building feature-rich applications.
 
