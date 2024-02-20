@@ -1,0 +1,28 @@
+{
+   "entities": [
+      {
+         "name": "variable",
+         "description": "Represents a variable in GCD+ programming language",
+         "usage": "Used for storing and manipulating data",
+         "example": "var myVar = 10;"
+      },
+      {
+         "name": "function",
+         "description": "Defines a function in GCD+",
+         "usage": "Used for grouping code and reusable logic",
+         "example": "function add(a, b) { return a + b; }"
+      },
+      {
+         "name": "class",
+         "description": "Defines a class in GCD+",
+         "usage": "Used for creating objects and organizing code",
+         "example": "class Person { constructor(name) { this.name = name; } }"
+      },
+      {
+         "name": "loop",
+         "description": "Represents a loop structure in GCD+",
+         "usage": "Used for iterating over a sequence of code",
+         "example": "for (var i = 0; i < 5; i++) { // code to repeat }"
+      }
+   ]
+}
